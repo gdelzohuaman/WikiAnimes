@@ -1,0 +1,109 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: 'Chakra Petch', sans-serif;
+}
+.header{
+  position: unset;
+}
+.inicio{
+  padding: 20px;
+  margin-top: -30px;
+  margin-bottom: 15px;
+}
+.inicio p{
+  text-align: center;
+}
+.inicio h1{
+  font-size: 50px;
+  text-align: center;
+
+}
+.inicio h2{
+  font-size: 50px;
+  text-align: center;
+}
+.carousel {
+  max-height: 90%;
+  margin-top: -16px;
+}
+.carousel img{
+  border-radius: 30px;
+  max-width: 100%;
+}
+#Logos_img {
+  max-width: 40vh;
+  height: auto;
+  opacity: 70%;
+}
+.contenido h1{
+  padding: 20px;
+  font-size: 40px;
+  text-align: center;
+}
+.contenido p{
+  text-align: center;
+  margin: 30px 200px;
+}
+.generos{
+  margin: 60px 50px;
+  padding-bottom: 50px;
+}
+
+.botones{
+  margin-top: -60px;
+  padding-bottom: 20px;
+}
+.botones h1{
+  margin: 0px 70px;
+  font-size: 50px;
+}
+.card img{
+  width: 100%;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #1E2224;
+  color: #fff;
+  position: static;
+  bottom: 0;
+  max-width: 100%;
+}
+.card{
+  margin: 0px 5px 10px;
+}
+.card #botones{
+  background-color: #feffff;
+  border-color: #aeaeae;
+  color: #000000;
+  margin-top: 0px;
+  float: right;
+}
+.card #botones:hover{
+  background-color: #2e2e2e;
+  border-color: #000000;
+  color: #ffffff;
+}
+.mas{
+  padding: 30px 0px;
+  margin-top: -45px;
+  padding-left: 60px;
+  margin-bottom: -30px;
+}
+.mas li a{
+  color: #1E2224;
+}
+.mas li a:hover{
+  background-color: #1E2224;
+  color: #feffff;
+}
+.card:hover{
+  border: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 8px;
+}
